@@ -18,19 +18,20 @@
     <form method="POST">
         <h3>Login Here</h3>
 
-        <label for="username">Username</label>
+        
         <input type="text" placeholder="Email Address" id="username">
 
-        <label for="password">Password</label>
+        
         <input type="password" placeholder="Password" id="password">
 
         <button>Log In</button>
         <div class="">
-            <p small>if you dont have an account</p>
-            <a href="">Sign Up</a>
+            
+            <a href="index.php">go back to HOME</a>
         </div>
         <div class="">
-            <a href="admin.php">Admin Page</a>
+        <p small>if you dont have an account</p>
+            <a href="signupadmin.php">sign up</a>
         </div>
     </form>
 </div>
