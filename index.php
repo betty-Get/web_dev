@@ -15,7 +15,7 @@
         <div class="shape"></div>
         <div class="shape"></div>
     </div>
-    <form>
+    <form method="POST">
         <h3>Login Here</h3>
 
         <label for="username">Username</label>
